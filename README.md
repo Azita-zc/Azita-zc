@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Azita-zc
+- 👀 I’m interested in Data Science & machine learning using Python, Pandas and scikit-learn
